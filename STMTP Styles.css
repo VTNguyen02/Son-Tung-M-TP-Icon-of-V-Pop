@@ -419,15 +419,15 @@ p{
 }
 
 #influence1{
-    background-image: url(influence1.png); 
+    background-image: url(Influence1.png); 
 }
 
 #influence2{
-    background-image: url(influence2.png);
+    background-image: url(Influence2.png);
 }
 
 #influence3{
-    background-image: url(influence3.png);
+    background-image: url(Influence3.png);
 }
 
 #influence4{
@@ -435,11 +435,11 @@ p{
 }
 
 #influence5{
-    background-image: url(influence5.png);
+    background-image: url(Influence5.png);
 }
 
 #influence6{
-    background-image: url(influence6.png);
+    background-image: url(Influence6.png);
 }
 
 #influence1, #influence2, #influence3, #influence4, #influence5, #influence6 {
